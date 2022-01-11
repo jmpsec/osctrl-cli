@@ -1,2 +1,2 @@
-# osctrl-cli
-Full osctrl management via CLI
+# osctrl-shell
+Full osctrl management via interactive shell
